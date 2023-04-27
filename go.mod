@@ -1,4 +1,4 @@
-module challenge-bravo-go/currency-converter
+module github.com/nmarvila/currency-converter
 
 go 1.20
 
